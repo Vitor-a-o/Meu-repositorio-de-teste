@@ -1,3 +1,3 @@
 console.log("bc conectado")
 
-console.log("agora estou na nova branch")
+console.log("digitando somente na nova branch")
